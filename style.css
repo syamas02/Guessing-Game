@@ -4,13 +4,15 @@ html {
 
 body {
   background-image: url('square-background.png');
-  background-color: rgba(256,256,256,0.5);
+  
 }
 
 #app {
 
+}
 
-
+#headers{
+  color: firebrick;
 }
 .center {
   text-align: center;
@@ -36,8 +38,7 @@ img {
     width: 160px;
     position: relative;
     margin: 5% auto 50px;
-
-    
+   
 } 
 #player-input{
   border-radius: 50%;
